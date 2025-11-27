@@ -524,7 +524,7 @@ var SwaggerInfo = &swag.Spec{
 	Version:          "1.0",
     // Host:             "localhost:8080", # localhost
 	// Host:             "localhost:7070", # docker localhost
-	Host:             "go-sample-api-deployed.onrender.com", // Render
+	Host:             "https://go-learn-1.onrender.com", // Render
 	BasePath:         "/",
 	Schemes:          []string{},
 	Title:            "Movies API with GO and PostgreSQL",

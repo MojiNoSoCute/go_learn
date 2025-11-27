@@ -1,7 +1,7 @@
 basePath: /
 # host: localhost:8080 # ถ้าใช้ local
 # host: localhost:7070 # ถ้าใช้ docker local
-host: https://go-learn-ix0w.onrender.com # render
+host: https://go-learn-1.onrender.com # render
 info:
   contact:
     email: support@swagger.io
