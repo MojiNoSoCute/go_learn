@@ -15,7 +15,7 @@
         },
         "version": "1.0"
     },
-    "host": "go-sample-api-deployed.onrender.com",
+    "host": "https://go-learn-ix0w.onrender.com",
     "basePath": "/",
     "paths": {
         "/api/v1/": {
