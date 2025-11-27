@@ -33,7 +33,7 @@ COPY . .
 # Docker on Render
 ENV DB_HOST=dpg-d4jvqj2li9vc73de1g0g-a
 ENV DB_PORT=5432
-ENV DB_NAME=gosampledb
+ENV DB_NAME=gosampledb_ja6z
 ENV DB_USER=gosampledb_user
 ENV DB_PASSWORD=kI4xzHbxhxFkZMaUE4mCcMuDqbipyrWT
 ENV DB_SSLMODE=disable
