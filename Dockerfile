@@ -31,7 +31,7 @@ COPY . .
 # ENV API_KEY=b41447e6319d1cd467306735632ba733
 
 # Docker on Render
-ENV DB_HOST=dpg-d4jtv8khg0os73abkv0g-a.oregon-postgres.render.com
+ENV DB_HOST=dpg-d4jtv8khg0os73abkv0g-a
 ENV DB_PORT=5432
 ENV DB_NAME=gosampledb_99gb
 ENV DB_USER=gosampledb_user
