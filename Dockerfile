@@ -31,12 +31,11 @@ COPY . .
 # ENV API_KEY=b41447e6319d1cd467306735632ba733
 
 # Docker on Render
-ENV DB_HOST=dpg-d4jtv8khg0os73abkv0g-a.oregon-postgres.render.com
+ENV DB_HOST=dpg-d4jvqj2li9vc73de1g0g-a
 ENV DB_PORT=5432
-ENV DB_NAME=gosampledb_99gb
+ENV DB_NAME=gosampledb
 ENV DB_USER=gosampledb_user
-ENV DB_PASSWORD=eG9cMOigsDhI3VuJSsY7tUP4df4XrZF5
-ENV DB_SSL=sslmode=require
+ENV DB_PASSWORD=kI4xzHbxhxFkZMaUE4mCcMuDqbipyrWT
 ENV DB_SSLMODE=disable
 ENV DB_TIMEZONE=UTC
 ENV DB_CONNECT_TIMEOUT=5
